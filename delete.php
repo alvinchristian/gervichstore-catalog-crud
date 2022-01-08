@@ -20,5 +20,3 @@ else
     echo "Gagal Menyimpan Data";
     echo "<br><a href='index.php'>View data</a>";
 }
-
-?>
